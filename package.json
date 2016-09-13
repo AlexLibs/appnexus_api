@@ -1,0 +1,28 @@
+{
+  "name": "appnexus_api",
+  "version": "1.0.0",
+  "description": "Appnexus API calls with authentification and support of multiple seats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexLibs/appnexus_api.git"
+  },
+  "keywords": [
+    "appnexus",
+    "API",
+    "seats"
+  ],
+  "author": "AlexLibs",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "axios": "^0.14.0"
+  }
+}
