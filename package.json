@@ -1,6 +1,6 @@
 {
   "name": "appnexus_api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Appnexus API calls with authentification and support of multiple seats",
   "main": "index.js",
   "scripts": {
