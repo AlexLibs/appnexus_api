@@ -38,3 +38,6 @@ https://wiki.appnexus.com/display/documentation/API+Documentation (e.g. for camp
 
         apiRequest(appnexusSeatName, url, body, 'PUT')
             .then((res) => ...your code here...);
+
+## Contribution:
+I belive in sharing and contribution - so pull requests are very welcome and will be appreciated by all the developers (from logic code to documentation and tests)
